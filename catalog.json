@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "repository": "AbBossH/boringskill",
+  "skills": [
+    {
+      "name": "heidong-scene-image-generation",
+      "url": "https://raw.githubusercontent.com/AbBossH/boringskill/main/skills/heidong-scene-image-generation/SKILL.md"
+    }
+  ]
+}
